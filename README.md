@@ -7,7 +7,7 @@
 ## 파일 설명
 |파일명|설명|
 |------|---|
-|220503_Tokenizer.ipynb|Colab 소스 코드, 코드 내 설명 포함|
+|220503_Tokenizer.ipynb|Colab 소스 코드, 코드 내 설명 -> https://colab.research.google.com/drive/1ie5ymettTTA3yod9eW7BZNJz1LU7u1Yi#scrollTo=KRiU_83Q6zj8 확인|
 |resultVocabJson.json|Tokenizer가 학습하여 얻은 Vocabulary - json 형식 (Numbering 확인 가능)|
 |resultVocabTxt.txt|Tokenizer가 학습하여 얻은 Vocabulary - txt 형식|
 |sqlCorpus.txt|Tokenizer 학습에 활용한 SQL Corpus Data set|
